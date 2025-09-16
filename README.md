@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Primeiro aplicativo Flutter - Contador na tela
 
 ## Getting Started
 
